@@ -75,4 +75,11 @@ And next packing structure:
 - Hibernate 
 - MySQL
 
-# How to using 
+# How to use it 
+
+WARNING Installed TomCat and MySQL is required for this project. You should have: JDK (Intellij IDEA Ultimate, Eclipse e.t.c), Apache Maven, Postman API to create HTTP requests, MySQL or any other server and (optional) MySQL Workbench.
+
+1. Set up a database parameters in **resources/db.properties** file.
+2. Add a tomcat configuration in IDE.
+3. Run Tomcat.
+4. In login page write login: admin@i.ua and password: admin123. After that you can use anythind program for give a HTTP requests(like a Postman).

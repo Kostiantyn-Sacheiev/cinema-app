@@ -51,9 +51,9 @@ This application is logic for create WEB server for sale tickets in cinema hall.
 
 The project uses following N-tier architecture:
 
--Data Access Layer (DAO tier)
--Application layer (service tier)
--Security level (security tier)
+- Data Access Layer (DAO tier)
+- Application layer (service tier)
+- Security level (security tier)
 
 And next packing structure:
 
